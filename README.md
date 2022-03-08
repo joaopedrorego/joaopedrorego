@@ -1,7 +1,7 @@
 ## Oii, Sou o João Pedro !! 
 
 - Aluno Kenzie Academy Brasil
-- M1 atualmente
+- M2 atualmente
 
 
 <div align="center">
