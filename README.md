@@ -1,7 +1,5 @@
 ## Oii, Sou o João Pedro !! 
 
-- EX aluno Kenzie Academy Brasil
-
 
 <div align="center">
   <a href="https://github.com/atlasfernands">
